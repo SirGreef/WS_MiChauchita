@@ -1,0 +1,243 @@
+[
+    {
+        "idBusiness": "1",
+        "name": "Doña Juanita",
+        "typeBusiness": "Bazar",
+        "attentionHours": [
+            {
+                "opening": "09:00",
+                "closing": "21:00"
+            }
+        ],
+        "location": [
+            {
+                "Región": "Región Metropolitana",
+                "Comune": "Providencia",
+                "locationName": "Calle 123",
+                "latitude": -33.429901,
+                "longitude": -70.615150
+            }
+        ]
+    },
+    {
+        "idBusiness": "2",
+        "name": "Ferretería López",
+        "typeBusiness": "Ferretería",
+        "attentionHours": [
+            {
+                "opening": "08:30",
+                "closing": "20:00"
+            }
+        ],
+        "location": [
+            {
+                "Región": "Región Metropolitana",
+                "Comune": "Providencia",
+                "locationName": "Avenida 456",
+                "latitude": -33.432584,
+                "longitude": -70.605996
+            }
+        ]
+    },
+    {
+        "idBusiness": "3",
+        "name": "La Esquina del Pan",
+        "typeBusiness": "Panadería",
+        "attentionHours": [
+            {
+                "opening": "07:00",
+                "closing": "19:00"
+            }
+        ],
+        "location": [
+            {
+                "Región": "Región Metropolitana",
+                "Comune": "Providencia",
+                "locationName": "Avenida Central",
+                "latitude": -33.434020,
+                "longitude": -70.608034
+            }
+        ]
+    },
+    {
+        "idBusiness": "4",
+        "name": "La Carnicería Feliz",
+        "typeBusiness": "Carnicería",
+        "attentionHours": [
+            {
+                "opening": "08:00",
+                "closing": "20:00"
+            }
+        ],
+        "location": [
+            {
+                "Región": "Región Metropolitana",
+                "Comune": "Providencia",
+                "locationName": "Calle Felicidad",
+                "latitude": -33.423664,
+                "longitude": -70.615255
+            }
+        ]
+    },
+    {
+        "idBusiness": "5",
+        "name": "El Kiosko de María",
+        "typeBusiness": "Kiosko",
+        "attentionHours": [
+            {
+                "opening": "10:00",
+                "closing": "22:00"
+            }
+        ],
+        "location": [
+            {
+                "Región": "Región Metropolitana",
+                "Comune": "Providencia",
+                "locationName": "Plaza Central",
+                "latitude": -33.426446,
+                "longitude": -70.612833
+            }
+        ]
+    },
+    {
+        "idBusiness": "6",
+        "name": "Verdulería El Huerto",
+        "typeBusiness": "Verdulería",
+        "attentionHours": [
+            {
+                "opening": "09:30",
+                "closing": "18:30"
+            }
+        ],
+        "location": [
+            {
+                "Región": "Región Metropolitana",
+                "Comune": "Providencia",
+                "locationName": "Avenida de las Verduras",
+                "latitude": -33.431155,
+                "longitude": -70.606932
+            }
+        ]
+    },
+    {
+        "idBusiness": "7",
+        "name": "Librería La Imaginación",
+        "typeBusiness": "Librería",
+        "attentionHours": [
+            {
+                "opening": "10:00",
+                "closing": "19:00"
+            }
+        ],
+        "location": [
+            {
+                "Región": "Región Metropolitana",
+                "Comune": "Providencia",
+                "locationName": "Calle de los Libros",
+                "latitude": -33.436145,
+                "longitude": -70.611786
+            }
+        ]
+    },
+    {
+        "idBusiness": "8",
+        "name": "Cafetería Los Aromas",
+        "typeBusiness": "Cafetería",
+        "attentionHours": [
+            {
+                "opening": "07:30",
+                "closing": "18:30"
+            }
+        ],
+        "location": [
+            {
+                "Región": "Región Metropolitana",
+                "Comune": "Providencia",
+                "locationName": "Calle del Café",
+                "latitude": -33.428022,
+                "longitude": -70.609509
+            }
+        ]
+    },
+    {
+        "idBusiness": "9",
+        "name": "Tienda de Mascotas Felices",
+        "typeBusiness": "Tienda de Mascotas",
+        "attentionHours": [
+            {
+                "opening": "09:00",
+                "closing": "20:00"
+            }
+        ],
+        "location": [
+            {
+                "Región": "Región Metropolitana",
+                "Comune": "Providencia",
+                "locationName": "Avenida de los Animales",
+                "latitude": -33.435263,
+                "longitude": -70.610806
+            }
+        ]
+    },
+    {
+        "idBusiness": "10",
+        "name": "Peluquería Glamour",
+        "typeBusiness": "Peluquería",
+        "attentionHours": [
+            {
+                "opening": "11:00",
+                "closing": "21:00"
+            }
+        ],
+        "location": [
+            {
+                "Región": "Región Metropolitana",
+                "Comune": "Providencia",
+                "locationName": "Calle de los Peinados",
+                "latitude": -33.425012,
+                "longitude": -70.614316
+            }
+        ]
+    },
+    {
+        "idBusiness": "11",
+        "name": "Gimnasio Salud Activa",
+        "typeBusiness": "Gimnasio",
+        "attentionHours": [
+            {
+                "opening": "06:00",
+                "closing": "22:00"
+            }
+        ],
+        "location": [
+            {
+                "Región": "Región Metropolitana",
+                "Comune": "Providencia",
+                "locationName": "Avenida del Ejercicio",
+                "latitude": -33.437412,
+                "longitude": -70.607638
+            }
+        ]
+    },
+    {
+        "idBusiness": "12",
+        "name": "Florería Flores Bellas",
+        "typeBusiness": "Florería",
+        "attentionHours": [
+            {
+                "opening": "08:00",
+                "closing": "19:30"
+            }
+        ],
+        "location": [
+            {
+                "Región": "Región Metropolitana",
+                "Comune": "Providencia",
+                "locationName": "Avenida de las Flores",
+                "latitude": -33.433520,
+                "longitude": -70.606164
+            }
+        ]
+    }
+]
+
