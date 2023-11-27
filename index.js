@@ -36,7 +36,7 @@ app.get("/data", (req, res) => {
 
     // Enviar el contenido JSON como respuesta
     res.setHeader("Content-Type", "application/json");
-    res.send(data);
+    res.status(200).send(data);
   });
 });
 
