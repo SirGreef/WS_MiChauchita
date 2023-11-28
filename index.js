@@ -3,27 +3,7 @@ const app = express();
 const fs = require("fs");
 const PORT = process.env.PORT || 3000;
 
-const jsonData = {
-  idBusiness: "1",
-  name: "Doña Juanita",
-  typeBusiness: "Bazar",
-  attentionHours: [
-    {
-      opening: "09:00",
-      closing: "21:00",
-    },
-  ],
-  location: [
-    {
-      latitude: 19.878896756,
-      longitude: 19.111883731,
-    },
-  ],
-};
-
 app.get("/data", (req, res) => {
-  //   res.send("hello world");
-  //   res.json(jsonData);
   const filePath = __dirname + "/data.json";
 
   // Leer el archivo JSON de manera asíncrona

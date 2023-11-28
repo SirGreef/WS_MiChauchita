@@ -3,6 +3,7 @@
         "idBusiness": "1",
         "name": "Doña Juanita",
         "typeBusiness": "Bazar",
+        "imgBusiness": "https://picsum.photos/200/300",
         "attentionHours": [
             {
                 "opening": "09:00",
@@ -14,8 +15,22 @@
                 "Región": "Región Metropolitana",
                 "Comune": "Providencia",
                 "locationName": "Calle 123",
-                "latitude": -33.429901,
-                "longitude": -70.615150
+                "latitude": -33.426602925537836,
+                "longitude": -70.61431005442992
+            }
+        ],
+        "products": [
+            {
+                "productId": "1",
+                "productName": "Producto 1",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
+            },
+            {
+                "productId": "2",
+                "productName": "Producto 2",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
             }
         ]
     },
@@ -23,6 +38,7 @@
         "idBusiness": "2",
         "name": "Ferretería López",
         "typeBusiness": "Ferretería",
+        "imgBusiness": "https://picsum.photos/200/300",
         "attentionHours": [
             {
                 "opening": "08:30",
@@ -34,8 +50,22 @@
                 "Región": "Región Metropolitana",
                 "Comune": "Providencia",
                 "locationName": "Avenida 456",
-                "latitude": -33.432584,
-                "longitude": -70.605996
+                "latitude": -33.42858234258925,
+                "longitude": -70.61331887751065
+            }
+        ],
+        "products": [
+            {
+                "productId": "1",
+                "productName": "Producto 1",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
+            },
+            {
+                "productId": "2",
+                "productName": "Producto 2",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
             }
         ]
     },
@@ -43,6 +73,7 @@
         "idBusiness": "3",
         "name": "La Esquina del Pan",
         "typeBusiness": "Panadería",
+        "imgBusiness": "https://picsum.photos/200/300",
         "attentionHours": [
             {
                 "opening": "07:00",
@@ -54,8 +85,22 @@
                 "Región": "Región Metropolitana",
                 "Comune": "Providencia",
                 "locationName": "Avenida Central",
-                "latitude": -33.434020,
-                "longitude": -70.608034
+                "latitude": -33.428730058469704,
+                "longitude": -70.6104515442799
+            }
+        ],
+        "products": [
+            {
+                "productId": "1",
+                "productName": "Producto 1",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
+            },
+            {
+                "productId": "2",
+                "productName": "Producto 2",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
             }
         ]
     },
@@ -63,6 +108,7 @@
         "idBusiness": "4",
         "name": "La Carnicería Feliz",
         "typeBusiness": "Carnicería",
+        "imgBusiness": "https://picsum.photos/200/300",
         "attentionHours": [
             {
                 "opening": "08:00",
@@ -74,8 +120,22 @@
                 "Región": "Región Metropolitana",
                 "Comune": "Providencia",
                 "locationName": "Calle Felicidad",
-                "latitude": -33.423664,
-                "longitude": -70.615255
+                "latitude": -33.4278142159586,
+                "longitude": -70.606805429184
+            }
+        ],
+        "products": [
+            {
+                "productId": "1",
+                "productName": "Producto 1",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
+            },
+            {
+                "productId": "2",
+                "productName": "Producto 2",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
             }
         ]
     },
@@ -83,6 +143,7 @@
         "idBusiness": "5",
         "name": "El Kiosko de María",
         "typeBusiness": "Kiosko",
+        "imgBusiness": "https://picsum.photos/200/300",
         "attentionHours": [
             {
                 "opening": "10:00",
@@ -94,8 +155,22 @@
                 "Región": "Región Metropolitana",
                 "Comune": "Providencia",
                 "locationName": "Plaza Central",
-                "latitude": -33.426446,
-                "longitude": -70.612833
+                "latitude": -33.42584339894457,
+                "longitude": -70.59712686595155
+            }
+        ],
+        "products": [
+            {
+                "productId": "1",
+                "productName": "Producto 1",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
+            },
+            {
+                "productId": "2",
+                "productName": "Producto 2",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
             }
         ]
     },
@@ -103,6 +178,7 @@
         "idBusiness": "6",
         "name": "Verdulería El Huerto",
         "typeBusiness": "Verdulería",
+        "imgBusiness": "https://picsum.photos/200/300",
         "attentionHours": [
             {
                 "opening": "09:30",
@@ -114,8 +190,22 @@
                 "Región": "Región Metropolitana",
                 "Comune": "Providencia",
                 "locationName": "Avenida de las Verduras",
-                "latitude": -33.431155,
-                "longitude": -70.606932
+                "latitude": -33.43082183633003,
+                "longitude": -70.59837141092247
+            }
+        ],
+        "products": [
+            {
+                "productId": "1",
+                "productName": "Producto 1",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
+            },
+            {
+                "productId": "2",
+                "productName": "Producto 2",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
             }
         ]
     },
@@ -123,6 +213,7 @@
         "idBusiness": "7",
         "name": "Librería La Imaginación",
         "typeBusiness": "Librería",
+        "imgBusiness": "https://picsum.photos/200/300",
         "attentionHours": [
             {
                 "opening": "10:00",
@@ -137,12 +228,27 @@
                 "latitude": -33.436145,
                 "longitude": -70.611786
             }
+        ],
+        "products": [
+            {
+                "productId": "1",
+                "productName": "Producto 1",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
+            },
+            {
+                "productId": "2",
+                "productName": "Producto 2",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
+            }
         ]
     },
     {
         "idBusiness": "8",
         "name": "Cafetería Los Aromas",
         "typeBusiness": "Cafetería",
+        "imgBusiness": "https://picsum.photos/200/300",
         "attentionHours": [
             {
                 "opening": "07:30",
@@ -154,8 +260,22 @@
                 "Región": "Región Metropolitana",
                 "Comune": "Providencia",
                 "locationName": "Calle del Café",
-                "latitude": -33.428022,
-                "longitude": -70.609509
+                "latitude": -33.434761404522256,
+                "longitude": -70.60150423102166
+            }
+        ],
+        "products": [
+            {
+                "productId": "1",
+                "productName": "Producto 1",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
+            },
+            {
+                "productId": "2",
+                "productName": "Producto 2",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
             }
         ]
     },
@@ -163,6 +283,7 @@
         "idBusiness": "9",
         "name": "Tienda de Mascotas Felices",
         "typeBusiness": "Tienda de Mascotas",
+        "imgBusiness": "https://picsum.photos/200/300",
         "attentionHours": [
             {
                 "opening": "09:00",
@@ -174,8 +295,22 @@
                 "Región": "Región Metropolitana",
                 "Comune": "Providencia",
                 "locationName": "Avenida de los Animales",
-                "latitude": -33.435263,
-                "longitude": -70.610806
+                "latitude": -33.438414298861865,
+                "longitude": -70.60695447968739
+            }
+        ],
+        "products": [
+            {
+                "productId": "1",
+                "productName": "Producto 1",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
+            },
+            {
+                "productId": "2",
+                "productName": "Producto 2",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
             }
         ]
     },
@@ -183,6 +318,7 @@
         "idBusiness": "10",
         "name": "Peluquería Glamour",
         "typeBusiness": "Peluquería",
+        "imgBusiness": "https://picsum.photos/200/300",
         "attentionHours": [
             {
                 "opening": "11:00",
@@ -194,8 +330,22 @@
                 "Región": "Región Metropolitana",
                 "Comune": "Providencia",
                 "locationName": "Calle de los Peinados",
-                "latitude": -33.425012,
-                "longitude": -70.614316
+                "latitude": -33.44006163226995,
+                "longitude": -70.62008657489774
+            }
+        ],
+        "products": [
+            {
+                "productId": "1",
+                "productName": "Producto 1",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
+            },
+            {
+                "productId": "2",
+                "productName": "Producto 2",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
             }
         ]
     },
@@ -203,6 +353,7 @@
         "idBusiness": "11",
         "name": "Gimnasio Salud Activa",
         "typeBusiness": "Gimnasio",
+        "imgBusiness": "https://picsum.photos/200/300",
         "attentionHours": [
             {
                 "opening": "06:00",
@@ -214,8 +365,22 @@
                 "Región": "Región Metropolitana",
                 "Comune": "Providencia",
                 "locationName": "Avenida del Ejercicio",
-                "latitude": -33.437412,
-                "longitude": -70.607638
+                "latitude": -33.432361870640705,
+                "longitude": -70.6179408077065
+            }
+        ],
+        "products": [
+            {
+                "productId": "1",
+                "productName": "Producto 1",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
+            },
+            {
+                "productId": "2",
+                "productName": "Producto 2",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
             }
         ]
     },
@@ -223,6 +388,7 @@
         "idBusiness": "12",
         "name": "Florería Flores Bellas",
         "typeBusiness": "Florería",
+        "imgBusiness": "https://picsum.photos/200/300",
         "attentionHours": [
             {
                 "opening": "08:00",
@@ -234,8 +400,22 @@
                 "Región": "Región Metropolitana",
                 "Comune": "Providencia",
                 "locationName": "Avenida de las Flores",
-                "latitude": -33.433520,
-                "longitude": -70.606164
+                "latitude": -33.4413150171715,
+                "longitude": -70.59965887123721
+            }
+        ],
+        "products": [
+            {
+                "productId": "1",
+                "productName": "Producto 1",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
+            },
+            {
+                "productId": "2",
+                "productName": "Producto 2",
+                "price": 2000,
+                "productImage": "https://picsum.photos/200/300"
             }
         ]
     }
